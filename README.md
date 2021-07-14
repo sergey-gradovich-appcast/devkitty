@@ -17,4 +17,4 @@ Easy manage multiple Git repos / Jenkins jobs in one screen.
 
 ## License
 
-Devkitty is [MIT licensed](./LICENSE).
+Devkitty is [MIT licensed](./LICENSE.md).
